@@ -6,6 +6,7 @@ This cartridge consists of source code repositories and jenkins jobs.
 
 ## Pre-requisite
 * Configure the Sonar server authentication token in Manage Jenkins > Configure System > SonarQube servers.
+* Make sure [adop-pluggable-scm](https://github.com/Accenture/adop-pluggable-scm) is loaded into your ADOP/C.
 
 ## Source code repositories
 
